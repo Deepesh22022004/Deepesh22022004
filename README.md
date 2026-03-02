@@ -1,5 +1,23 @@
 # 💫 About Me:
-I’m currently working on<br><br>Building and optimizing CI/CD pipelines using Jenkins, GitHub, Maven & SonarQube<br><br>Containerizing applications with Docker and deploying them on Kubernetes<br><br>Designing scalable AWS deployments using Elastic Beanstalk, RDS, Auto Scaling & CloudWatch<br><br>Improving reliability and deployment consistency through automation<br><br>👯 I’m looking to collaborate on<br><br>Cloud-native deployments (AWS + Kubernetes)<br><br>Infrastructure as Code projects using Terraform<br><br>Scalable backend systems with proper DevOps workflows<br><br>Real-time or distributed systems with production-ready architecture<br><br>🤝 I’m looking for help with<br><br>Advanced Kubernetes production setups<br><br>Observability & monitoring stacks (beyond basic CloudWatch)<br><br>Secure CI/CD implementations<br><br>High-availability system design<br><br>🌱 I’m currently learning<br><br>Terraform for Infrastructure as Code<br><br>Advanced Linux system administration<br><br>Cloud cost optimization strategies<br><br>System design fundamentals<br><br>💬 Ask me about<br><br>End-to-end CI/CD pipeline implementation (Jenkins → Docker → Kubernetes)<br><br>Refactoring monolithic applications to AWS managed services<br><br>Real-time communication apps using WebSockets & Redis<br><br>Full-stack projects like Samvaad & YelpCamp<br><br>Deployment automation & release strategies<br><br>⚡ Fun fact<br><br>I started as a full-stack developer, but I enjoy building the systems that keep applications running reliably in production.
+DevOps-focused engineer with strong foundations in Linux, AWS, CI/CD, Docker, and Kubernetes.
+
+🔹 Built end-to-end CI/CD pipelines using Jenkins, Git, Maven, SonarQube, and Nexus, reducing deployment time by 40%.
+
+🔹 Containerized Java and Node.js applications using Docker and deployed them on Kubernetes with rolling updates.
+
+🔹 Migrated monolithic applications to AWS managed services (Elastic Beanstalk, RDS, Auto Scaling, CloudWatch), reducing infrastructure cost by 30%.
+
+🔹 Implemented automated testing pipelines, saving 20+ developer hours per week through workflow optimization.
+
+🔹 Hands-on with Infrastructure fundamentals and working toward production-grade Infrastructure as Code using Terraform.
+
+🔹 Designed scalable real-time systems using WebSockets, Redis, and event-driven architecture (Samvaad).
+
+🔹 Strong full-stack background (React, Next.js, Node.js, REST APIs), enabling deeper understanding of application deployment needs.
+
+🔹 Focused on reliability, scalability, monitoring, and continuous improvement in cloud-native systems.
+
+🔹 Passionate about building automated, production-ready systems — not just writing code, but ensuring it runs efficiently in real-world environments.
 
 
 ## 🌐 Socials:
